@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "acredita_no_acredita"
